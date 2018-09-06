@@ -1,2 +1,3 @@
-# CPP-primer-solutions
-My solutions to exercises in C++ Primer, 5th edition
+## C++ Primer, 5th edition Solutions
+
+#### The code in this repository is tested using compiler g++ 5.4.0
